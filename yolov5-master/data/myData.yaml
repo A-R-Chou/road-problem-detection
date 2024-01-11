@@ -1,0 +1,8 @@
+path: D:/NUAACourse/aiDesignData/aiDesignData/dataSet
+train: train.txt
+val: val.txt
+test: test.txt
+
+nc: 4
+
+names: [ 'D00','D10','D20','D40' ]
